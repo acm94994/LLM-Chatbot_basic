@@ -12,6 +12,6 @@ Files need to be uploaded before asking questions.
 It takes too much time to work. Around 5-6 minutes for a single pdf + question. 
 
 I can try finding some APIs and shortening the time significantly, like groqAPI.
+![Screenshot from 2024-10-01 23-27-13](https://github.com/user-attachments/assets/650c779e-540c-4ab7-a276-698875a436d7)
 
-![Screenshot from 2024-10-01 23-24-37](https://github.com/user-attachments/assets/0d0d3182-227c-44ca-b734-5903d4e9e2ed)
 It works.
